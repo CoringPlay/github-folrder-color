@@ -69,7 +69,7 @@
 
         //dot
         '.github': '#32CD32',
-        '.vscode': '#00ffa2',
+        '.vscode': '#00ffa2'
     };
 
     function colorizeFolderIcons() {
