@@ -16,6 +16,7 @@
         'docs': '#1E90FF',
         'test': '#FF69B4',
         '.github': '#32CD32',
+        '.vscode': '#00ffa2',
         'config': '#FFA500',
         'scripts': '#8A2BE2',
         'assets': '#00CED1',
