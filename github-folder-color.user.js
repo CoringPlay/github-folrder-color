@@ -7,6 +7,8 @@
 // @match        https://github.com/*/*
 // @grant        none
 // @run-at       document-idle
+// @updateURL    https://raw.githubusercontent.com/CoringPlay/github-folrder-color/refs/heads/main/github-folder-color.user.js
+// @downloadURL  https://raw.githubusercontent.com/CoringPlay/github-folrder-color/refs/heads/main/github-folder-color.user.js
 // ==/UserScript==
 
 (function () {
