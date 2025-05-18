@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         GitHub Folder Icon Colorizer
-// @version      1.0
+// @version      1.0.1
 // @description  Changes the color of the folder icon on GitHub
 // @description:ru  Меняет цвет иконки папки на GitHub на основе названия папки (новый интерфейс React UI, расширенные цвета)
 // @author       Coring
@@ -21,6 +21,7 @@
         //C
         'config': '#FFA500',
         //D
+        'db': '#9b8fda',
         'docs': '#1E90FF',
         //E
 
@@ -41,7 +42,7 @@
         //M
 
         //N
-        'node_modules': '#808080'
+        'node_modules': '#808080',
         //O
 
         //P
@@ -58,7 +59,7 @@
         //U
 
         //V
-
+        'vendor': '#1e53f3',
         //W
 
         //X
@@ -69,7 +70,7 @@
 
         //dot
         '.github': '#32CD32',
-        '.vscode': '#00ffa2'
+        '.vscode': '#00ffa2',
     };
 
     function colorizeFolderIcons() {
