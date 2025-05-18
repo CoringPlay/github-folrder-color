@@ -12,18 +12,62 @@
 (function () {
     'use strict';
     const folderColors = {
-        'src': '#FFD700',
+        //A
+        'assets': '#00CED1',
+        //B
+        'build': '#A9A9A9',
+        //C
+        'config': '#FFA500',
+        //D
         'docs': '#1E90FF',
+        //E
+
+        //F
+
+        //G
+
+        //H
+
+        //I
+
+        //J
+
+        //K
+
+        //L
+        'lib': '#7FFF00',
+        //M
+
+        //N
+        'node_modules': '#808080'
+        //O
+
+        //P
+        'public': '#DC143C',
+        //Q
+
+        //R
+
+        //S
+        'scripts': '#8A2BE2',
+        'src': '#FFD700',
+        //T
         'test': '#FF69B4',
+        //U
+
+        //V
+
+        //W
+
+        //X
+
+        //Y
+
+        //Z
+
+        //dot
         '.github': '#32CD32',
         '.vscode': '#00ffa2',
-        'config': '#FFA500',
-        'scripts': '#8A2BE2',
-        'assets': '#00CED1',
-        'public': '#DC143C',
-        'build': '#A9A9A9',
-        'lib': '#7FFF00',
-        'node_modules': '#808080'
     };
 
     function colorizeFolderIcons() {
